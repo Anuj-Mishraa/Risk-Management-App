@@ -8,12 +8,6 @@ function Contact() {
 		<div className={`${styles.contact} ${darkMode}`}>
 			<div className={styles.container}>
 				<h1>Contact</h1>
-				<p>
-					This app is solely developed me (Ahmed Muhammed). I would really
-					appreciate it if you could leave some feedback to help me with future
-					updates. You can do this by filling in the form below or contact me on
-					my socials.
-				</p>
 
 				<form
 					className={styles.contactForm}
