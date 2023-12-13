@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Risk-Management-App/static/css/main.2611ee09.css",
+    "main.js": "/Risk-Management-App/static/js/main.80783829.js",
+    "static/media/risk-banner.jpg": "/Risk-Management-App/static/media/risk-banner.f9be67cf5eec25d764f0.jpg",
+    "static/media/plan-mitigate.jpg": "/Risk-Management-App/static/media/plan-mitigate.f8858e0cbabefedb9214.jpg",
+    "static/media/juggle.svg": "/Risk-Management-App/static/media/juggle.5f35903d336216ff1bb61a61804af62f.svg",
+    "static/media/illustration-1.svg": "/Risk-Management-App/static/media/illustration-1.6d856489e46b64901897454a8982dd7d.svg",
+    "static/media/duck.svg": "/Risk-Management-App/static/media/duck.59f3dc7af47fdff18e4182a80a3ec622.svg",
+    "index.html": "/Risk-Management-App/index.html",
+    "main.2611ee09.css.map": "/Risk-Management-App/static/css/main.2611ee09.css.map",
+    "main.80783829.js.map": "/Risk-Management-App/static/js/main.80783829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2611ee09.css",
+    "static/js/main.80783829.js"
+  ]
+}
