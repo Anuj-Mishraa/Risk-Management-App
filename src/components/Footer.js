@@ -23,15 +23,13 @@ function Footer() {
 			</div>
 
 			<div className={styles.socials}>
-				<a href="https://www.linkedin.com/in/ahmed-muhammed-/">
+				<a href="https://www.linkedin.com/in/anuj-mishraa/">
 					<i className={`fab fa-linkedin`}></i>
 				</a>
-				<a href="https://github.com/Ahmed78613">
+				<a href="https://github.com/anuj-mishraa">
 					<i className={`fab fa-github-square`}></i>
 				</a>
 			</div>
-
-			<p>Copyright &copy; 2022 Ahmed Muhammed</p>
 			<img className={styles.duck} src={duckImg} alt="duck flying" />
 		</footer>
 	);
